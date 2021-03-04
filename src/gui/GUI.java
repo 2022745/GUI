@@ -1,5 +1,6 @@
 /*
- 
+Nombre: Serafin Rodriguez
+Matricula: 2022745
  */
 package gui;
 
